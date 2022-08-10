@@ -1,0 +1,24 @@
+{
+    "blogs" : [
+        
+            {
+                "title": "My New Site",
+                 "body": "lorem ipsum...",
+                  "author": "israel", 
+                  "id": 1
+            },
+            {
+                "title": "My Welcome", 
+                "body": "lorem ipsum...", 
+                "author": "alex", 
+                "id": 2
+            },
+            {
+                "title": "React Tips", 
+                "body": "lorem ipsum...", 
+                "author": "isaac", 
+                "id": 3
+            }
+        
+    ]
+}
